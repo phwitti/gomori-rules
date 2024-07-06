@@ -116,11 +116,12 @@ These effects have to be executed and are executed _before_ any other action inc
 </p>
 
 - If the current player cannot fill up their hand at the end of turn for the draw pile being empty, the game ends immediately and the gathered cards are counted for each player.
+- The game also ends, if both players cannot play any card in consecutive turns.
 
 ## Trivia
 
 The name of the game comes from combining the words _Go_ and _Memory_, as the first version of the game had elements of both of them. Though all these gameplay-elements have been removed from the game at later stages, the name stayed the same.
 
 ## Version and License
-- Version 1.0.0
+- Version 1.0.1
 - CC-BY-SA-4.0, Philipp Wittershagen
