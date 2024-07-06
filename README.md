@@ -10,6 +10,7 @@ Gomori is a *2 Player* Tactical-Card-Game played with a default 52-Card-Deck inf
 
 <p align="center">
   <img src="01_setup.svg" alt="Figure 1: The playing field." />
+  <p align="center"><i>Figure 1: The playing field.</i></p>
 </p>
 
 - The 52-Card-Deck is *split into two* 26-Card-Decks by color -- one deck containing the *black suits*
@@ -32,6 +33,7 @@ The player with the most gathered cards wins.
 
 <p align="center">
   <img src="02_gathering_00.svg" alt="Figure 2: Rows, columns, and diagonals of the playing field." />
+  <p align="center"><i>Figure 2: Rows, columns, and diagonals of the playing field.</i></p>
 </p>
 
 - If *four cards of same suit* lie in one <span style="color:#ae63a4">_row_</span>,
@@ -41,6 +43,7 @@ The player with the most gathered cards wins.
 
 <p align="center">
   <img src="03_gathering_01.svg" alt="Figure 3: The five of clubs finishes the second column to be filled with all clubs." />
+  <p align="center"><i>Figure 3: The five of clubs finishes the second column to be filled with all clubs.</i></p>
 </p>
 
 ### Playing Cards
@@ -52,6 +55,7 @@ The player with the most gathered cards wins.
 
 <p align="center">
   <img src="04_playing_numbers.svg" alt="Figure 4: The five of clubs can be played on the empty fields, the five of hearts and the face-down card." />
+  <p align="center"><i>Figure 4: The five of clubs can be played on the empty fields, the five of hearts and the face-down card.</i></p>
 </p>
 
 - *Face cards* (jacks, queens, and kings) can be played on
@@ -64,6 +68,7 @@ Always, When *face cards* are played on other cards (regardless if face-up or fa
 
 <p align="center">
   <img src="05_playing_face_cards.svg" alt="Figure 5: The jack of clubs can be played on the empty fields, the jack of hearts, the face-down card and also all other cards of clubs." />
+  <p align="center"><i>Figure 5: The jack of clubs can be played on the empty fields, the jack of hearts, the face-down card and also all other cards of clubs.</i></p>
 </p>
 
 - *Aces* can be played <span style="color:#ae63a4">everywhere</span> -- on
@@ -72,7 +77,8 @@ Always, When *face cards* are played on other cards (regardless if face-up or fa
   - cards of any rank and suit.
 
 <p align="center">
-  <img src="06_playing_aces.svg" alt="Figure 6: Aces can be played everywhere" />
+  <img src="06_playing_aces.svg" alt="Figure 6: Aces can be played everywhere." />
+  <p align="center"><i>Figure 6: Aces can be played everywhere.</i></p>
 </p>
 
 ### Activating Face-Cards and Turning Cards Face-Down
@@ -82,6 +88,7 @@ These effects have to be executed and are executed _before_ any other action inc
 
 <p align="center">
   <img src="07_activating_face_cards.svg" alt="Figure 7: The Jack turns horizonally and vertically, the Queen diagonally. Already turned face-down cards are not turned face-up again." />
+  <p align="center"><i>Figure 7: The Jack turns horizonally and vertically, the Queen diagonally. Already turned face-down cards are not turned face-up again.</i></p>
 </p>
 
 - The Jacks: All face-up cards lying horizontally and vertically next to the jack are turned face-down
@@ -92,6 +99,7 @@ These effects have to be executed and are executed _before_ any other action inc
 
 <p align="center">
   <img src="08_playing_more_cards.svg" alt="Figure 8: The five of clubs is stacked onto a face down card, so another card has to be played." />
+  <p align="center"><i>Figure 8: The five of clubs is stacked onto a face down card, so another card has to be played.</i></p>
 </p>
 
 - Always when one cards is stacked on top of another card, the current player plays another card if possible
@@ -104,6 +112,7 @@ These effects have to be executed and are executed _before_ any other action inc
 
 <p align="center">
   <img src="09_end_of_turn.svg" alt="Figure 9: The hand is filled up to five cards." />
+  <p align="center"><i>Figure 9: The hand is filled up to five cards.</i></p>
 </p>
 
 - If no more cards can or may be played the players turn ends.
@@ -113,6 +122,7 @@ These effects have to be executed and are executed _before_ any other action inc
 
 <p align="center">
   <img src="10_end_of_game.svg" alt="Figure 10: The hand cannot be filled up to five cards. The game ends immediately." />
+  <p align="center"><i>Figure 10: The hand cannot be filled up to five cards. The game ends immediately.</i></p>
 </p>
 
 - If the current player cannot fill up their hand at the end of turn for the draw pile being empty, the game ends immediately and the gathered cards are counted for each player.
