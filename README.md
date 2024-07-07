@@ -105,7 +105,8 @@ These effects have to be executed and are executed _before_ any other action inc
 - Always when one cards is stacked on top of another card, the current player plays another card if possible
 - This is chained until either
   - a card is played on an empty field or
-  - the player has no more cards on their hand.
+  - the player has no more cards on their hand or
+  - the player has no legal move left to play another card.
 - If a line of four is completed by stacking one card on top of another, the other three cards of the line are taken _before_ the current player plays the next card.
 
 ### End of turn
@@ -133,5 +134,5 @@ These effects have to be executed and are executed _before_ any other action inc
 The name of the game comes from combining the words _Go_ and _Memory_, as the first version of the game had elements of both of them. Though all these gameplay-elements have been removed from the game at later stages, the name stayed the same.
 
 ## Version and License
-- Version 1.0.1
+- Version 1.0.2
 - CC-BY-SA-4.0, Philipp Wittershagen
